@@ -59,7 +59,6 @@ tuesdata <- tt_load("2025-03-04")
 longbeach <- tuesdata$longbeach
 str(longbeach)
 head(longbeach)
-View(longbeach)
 ```
 
 ```{r}
