@@ -12,6 +12,7 @@ Imports:
     bookdown,
     colorblindr,
     colorspace,
+    cowplot,
     dplyr,
     ggforce,
     gghighlight,
@@ -30,4 +31,7 @@ Imports:
     tidyverse,
     viridis,
     visdat
+Remotes:
+    clauswilke/colorblindr,
+    wilkelab/cowplot
 Encoding: UTF-8
